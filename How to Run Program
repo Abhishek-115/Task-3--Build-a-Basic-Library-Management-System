@@ -1,0 +1,6 @@
+
+## How to compile & run
+1. Open terminal in project folder.
+2. Compile:
+```bash
+3.javac LibraryManagementSystem.java
